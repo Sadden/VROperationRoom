@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VROperationRoom", "VROperationRoom.csproj", "{376AED79-EF45-E74F-B636-A9EE96C44FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VROperationRoom.Editor", "VROperationRoom.Editor.csproj", "{AA19CE93-E1B1-23AF-D6DE-C9B352DEBD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376AED79-EF45-E74F-B636-A9EE96C44FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376AED79-EF45-E74F-B636-A9EE96C44FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376AED79-EF45-E74F-B636-A9EE96C44FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376AED79-EF45-E74F-B636-A9EE96C44FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA19CE93-E1B1-23AF-D6DE-C9B352DEBD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA19CE93-E1B1-23AF-D6DE-C9B352DEBD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA19CE93-E1B1-23AF-D6DE-C9B352DEBD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA19CE93-E1B1-23AF-D6DE-C9B352DEBD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
