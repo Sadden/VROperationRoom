@@ -491,6 +491,7 @@
     <Compile Include="Assets\PUN\PhotonChatApi\ChatUserStatus.cs" />
     <Compile Include="Assets\PUN\PhotonChatApi\IChatClientListener.cs" />
     <Compile Include="Assets\PUN\Plugins\WebSocket\WebSocket.cs" />
+    <Compile Include="Assets\PUN\Script\PhotonConnection.cs" />
     <Compile Include="Assets\Scripts\ClickManager.cs" />
     <Compile Include="Assets\Scripts\ItemInteraction.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
