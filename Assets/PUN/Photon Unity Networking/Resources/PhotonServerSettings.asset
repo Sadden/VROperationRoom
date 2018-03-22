@@ -18,7 +18,7 @@ MonoBehaviour:
   PreferredRegion: 1
   EnabledRegions: -1
   Protocol: 0
-  ServerAddress: 192.168.1.5
+  ServerAddress: 192.168.1.8
   ServerPort: 5055
   VoiceServerPort: 5055
   JoinLobby: 0
@@ -42,4 +42,5 @@ MonoBehaviour:
   - RequestForPickupItems
   - RequestForPickupTimes
   - TaggedPlayer
+  - LoadGameScene
   DisableAutoOpenWizard: 1
